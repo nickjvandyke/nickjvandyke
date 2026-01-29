@@ -1,4 +1,4 @@
-## Hello, World! 👋
+### Hello, World! 👋
 
 I'm as tired as you are of embellished AI slop, so I'll keep it short 😄
 
@@ -6,4 +6,12 @@ I'm a Staff engineer driven by deeply technical challenges and cutting-edge syst
 
 _So if you're building something like that, I'd love to hear about it._
 
-**Let's talk:** nickjvandyke15@gmail.com | [LinkedIn](https://www.linkedin.com/in/nickjvandyke)
+[<img align="left" alt="Bluesky" width="48px" src="icons/bluesky.svg" />][bluesky]
+
+[<img align="left" alt="LinkedIn" width="48px" src="icons/linkedin.svg" />][linkedin]
+
+[<img align="left" alt="Gmail" width="48px" src="icons/gmail.svg" />][gmail]
+
+[bluesky]: https://bsky.app/profile/nickjvandyke.bsky.social/
+[linkedin]: https://www.linkedin.com/in/nickjvandyke
+[gmail]: mailto:nickjvandyke15@gmail.com
