@@ -1,4 +1,4 @@
-# Hello, world! I'm Nick 👋 <img align="right" src="https://komarev.com/ghpvc/?username=nickjvandyke" />
+# Hello, world! 👋 I'm Nick <img align="right" src="https://komarev.com/ghpvc/?username=nickjvandyke" />
 
 I'm as tired as you are of embellished AI slop, so I'll keep it short 😄
 
