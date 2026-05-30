@@ -1,4 +1,6 @@
-# Hello, world! 👋 I'm Nick <img align="right" src="https://komarev.com/ghpvc/?username=nickjvandyke" />
+# <img src="https://raw.githubusercontent.com/nickjvandyke/nickjvandyke/main/wave.gif" width="30px" /> Hello, world! <img align="right" src="https://komarev.com/ghpvc/?username=nickjvandyke" />
+
+I'm Nick!
 
 I'm as tired as you are of embellished AI slop, so I'll keep it short 😄
 
