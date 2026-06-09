@@ -4,4 +4,4 @@ I craft systems, tools, and teams that make great engineering fun; I believe a h
 
 I specialize in developer experience and open-source tooling, creating ecosystems where technical precision meets effortless flow. My work treats software development as an art form 🎨 and enables engineers to enjoy doing their best work. 
 
-When I'm not in the terminal, you'll likely find me chasing sprints at the velodrome 🚴 or fumbling (for now!) on the drums 🥁
+When I'm not in the terminal, you'll likely find me chasing sprints at the velodrome 🚴, getting lost in the mountains 🏔️, or fumbling (for now!) on the drums 🥁
