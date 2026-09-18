@@ -2,6 +2,6 @@
 
 I craft systems, tools, and teams that make great engineering fun; I believe a happy engineer is a productive engineer 😄
 
-I specialize in developer experience and open-source tooling, creating ecosystems where technical precision meets effortless flow. My work treats software development as an art form 🎨 and enables engineers to enjoy doing their best work. 
+I specialize in developer experience and open-source tooling, creating ecosystems where technical precision meets effortless flow. My work treats software development as an art and enables engineers to enjoy doing their best work. 
 
-When I'm not in the terminal, you'll likely find me chasing sprints at the velodrome 🚴 getting lost in the mountains 🏔️ or fumbling (for now!) on the drums 🥁
+When I'm not in the terminal, you'll likely find me cozying up with my cat 🐈‍⬛ getting lost in the mountains 🏔️ or fumbling (for now!) on the drums 🥁
