@@ -4,6 +4,6 @@ I build tools for engineers, and I believe a happy engineer is a productive engi
 
 I mostly focus on developer experience: editor tooling, AI-agent integration, and static analysis that stops whole classes of bugs before they ship. My favorite projects are the ones that "just work" and make another engineer's day a little smoother.
 
-Work with me → [LinkedIn](linkedin.com/in/nickjvandyke)
+Work with me → [LinkedIn](https://linkedin.com/in/nickjvandyke)
 
 When I'm not in the terminal, you'll likely find me with my cat 🐈‍⬛, lost in the mountains 🏔️, or fumbling (for now!) on the drums 🥁
